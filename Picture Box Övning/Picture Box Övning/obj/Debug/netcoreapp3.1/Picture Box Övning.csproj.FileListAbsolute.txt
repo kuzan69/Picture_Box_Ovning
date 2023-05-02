@@ -1,0 +1,16 @@
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\bin\Debug\netcoreapp3.1\Picture Box Övning.exe
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\bin\Debug\netcoreapp3.1\Picture Box Övning.deps.json
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\bin\Debug\netcoreapp3.1\Picture Box Övning.runtimeconfig.json
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\bin\Debug\netcoreapp3.1\Picture Box Övning.runtimeconfig.dev.json
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\bin\Debug\netcoreapp3.1\Picture Box Övning.dll
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\bin\Debug\netcoreapp3.1\Picture Box Övning.pdb
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.csprojAssemblyReference.cache
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture_Box_Övning.Form1.resources
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture_Box_Övning.Properties.Resources.resources
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.csproj.GenerateResource.cache
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.AssemblyInfoInputs.cache
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.AssemblyInfo.cs
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.csproj.CoreCompileInputs.cache
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.dll
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.pdb
+C:\Users\yosef.shiervani\source\repos\Picture Box Övning\Picture Box Övning\obj\Debug\netcoreapp3.1\Picture Box Övning.genruntimeconfig.cache

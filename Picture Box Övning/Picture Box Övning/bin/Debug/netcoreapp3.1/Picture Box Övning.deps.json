@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Picture Box Övning/1.0.0": {
+        "runtime": {
+          "Picture Box Övning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Picture Box Övning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
